@@ -1,15 +1,3 @@
-create table revenue_transactions(order_id int,
-customer_id varchar(50),
-plan varchar(50),
-list_price int,
-discount_pct int,
-final_price int,
-quantity int,
-payment_status varchar(50),
-refund_flag varchar(50),
-order_date date,
-region varchar(50)
-)
 ------------ Expected vs actual revenue per order
 SELECT
     order_id,

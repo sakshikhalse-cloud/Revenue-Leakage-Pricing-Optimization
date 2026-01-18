@@ -83,9 +83,3 @@ This dashboard enables:
 	•	Faster executive decision-making
 	•	Identification of pricing risks
 	•	Data-backed optimization of discounts and refunds
-⸻
-
-📌 Next Improvements (Planned)
-	•	Advanced anomaly detection
-	•	Scenario-based pricing simulations
-	•	Cross-project standardization across analytics portfolio
